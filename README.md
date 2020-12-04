@@ -1,5 +1,5 @@
 # colorpicker.java
-Simple, lightweight and customizable color picker for your android app.
+Simple, lightweight and customizable color picker dialog for your android app.
 
 ## Preview
 ![Screenshot](screenshot.png)

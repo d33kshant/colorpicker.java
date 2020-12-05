@@ -7,7 +7,7 @@ Simple, lightweight and customizable color picker dialog for your android app.
 ## Implementation
 1. Place color_picker_dialog.xml in your layout folder.
 2. Place ColorPickerDialog.java in your java folder.
-3. Replace package name in ColorPickerDialog.java to your app package.
+3. Change package name in ColorPickerDialog.java to your app package.
 
 ## Usage
 Open the color picker dialog

@@ -19,7 +19,7 @@
         android:layout_marginStart="24dp"
         android:layout_marginTop="32dp"
         android:text="Red"
-        android:textColor="@color/white" />
+        android:textColor=#ffffff" />
 
     <SeekBar
         android:id="@+id/seekBarRed"
@@ -40,7 +40,7 @@
         android:layout_marginStart="24dp"
         android:layout_marginTop="16dp"
         android:text="Green"
-        android:textColor="@color/white" />
+        android:textColor="#ffffff" />
 
     <SeekBar
         android:id="@+id/seekBarGreen"
@@ -61,7 +61,7 @@
         android:layout_marginStart="24dp"
         android:layout_marginTop="16dp"
         android:text="Blue"
-        android:textColor="@color/white" />
+        android:textColor="#ffffff" />
 
     <SeekBar
         android:id="@+id/seekBarBlue"
@@ -87,7 +87,7 @@
             android:layout_width="100dp"
             android:layout_height="50dp"
             android:layout_marginTop="18dp"
-            android:backgroundTint="?attr/colorPrimary"
+            android:backgroundTint="#303030"
             android:text="Cancel"
             android:textColor="#FF7070" />
 
@@ -96,7 +96,7 @@
             android:layout_width="100dp"
             android:layout_height="50dp"
             android:layout_marginTop="18dp"
-            android:backgroundTint="?attr/colorPrimary"
+            android:backgroundTint="#303030"
             android:text="set"
             android:textColor="#2C9EFA" />
     </LinearLayout>

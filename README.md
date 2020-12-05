@@ -10,13 +10,13 @@ Simple, lightweight and customizable color picker dialog for your android app.
 3. Change package name in ColorPickerDialog.java to your app package.
 
 ## Usage
-Open the color picker dialog
+1. Open the color picker dialog
 ```java
 ColorPickerDialog dialog = new ColorPickerDialog(initialColor);
 dialog.show(getSupportFragmentManager(), "Color Picker");
 ```
 
-Implement listener
+2. Implement listener
 ```java
 public class YourActivity extends AppCompatActivity implements ColorPickerDialog.setColorPickerListener {  
   @Override

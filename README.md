@@ -27,4 +27,4 @@ public class YourActivity extends AppCompatActivity implements ColorPickerDialog
 }
 ```
 
-:warning: Note: Make sure to configured the package name in java file correctly.
+:warning: Note: Make sure to configure the package name in java file correctly.
